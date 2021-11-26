@@ -1,0 +1,21 @@
+/* .login {
+  background-color: azure;
+} */
+
+.form-field {
+  text-align: center;
+  background-color: lightgray;
+  width: 500px;
+  margin: auto;
+  border-radius: 5px;
+  border: 1px solid lightskyblue;
+  margin-top: 80px;
+  padding: 20px;
+}
+.others-sign-in {
+  text-align: center;
+  margin-top: 20px;
+  width: 500px;
+  margin: auto;
+  background-color: lightgray;
+}

@@ -1,0 +1,27 @@
+.form {
+  width: 50%;
+  margin: 0 auto;
+  height: vh-100;
+  padding: 5px;
+}
+
+.form input {
+  display: block;
+  width: 100%;
+  border-radius: 4px;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.form-field {
+  text-align: center;
+  background-color: lightgray;
+  width: 500px;
+  margin: auto;
+  border-radius: 5px;
+  border: 1px solid lightskyblue;
+  margin-top: 80px;
+  padding: 20px;
+}

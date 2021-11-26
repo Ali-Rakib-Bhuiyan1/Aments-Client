@@ -1,0 +1,10 @@
+.form-field {
+  text-align: center;
+  background-color: lightgray;
+  width: 500px;
+  margin: auto;
+  border-radius: 5px;
+  border: 1px solid lightskyblue;
+  margin-top: 80px;
+  padding: 20px;
+}
